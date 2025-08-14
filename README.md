@@ -1,20 +1,22 @@
 # SPEECH-RECOGNITION-SYSTEM
 
-COMPANY: CODTECH IT SOLUTIONS
+**COMPANY:** CODTECH IT SOLUTIONS
 
-NAME: KUNTUMALLA BUGGA SUSHEEL
+**NAME:** KUNTUMALLA BUGGA SUSHEEL
 
-INTERN ID: CT04DZ1724
+**INTERN ID:** CT04DZ1724 
 
-DOMAIN: Embedded Systems
+**DOMAIN:** Embedded Systems
 
-DURATION: 4 WEEKS
+**DURATION:** 4 WEEKS  
 
-MENTOR: NEELA SANTOSH
+**MENTOR:** NEELA SANTOSH  
 
-DESCRIPTION:
+**DESCRIPTION:**
 
-📌 Task 4: SPEECH-RECOGNITION-SYSTEM:
+
+## 📌 Task 3: SPEECH-RECOGNITION-SYSTEM
+
 
 It is a **Speech Recognition–based Device Control System** using **Arduino UNO**.  
 Since **Tinkercad** does not provide a Speech Recognition Module (like Elechouse Voice Recognition V3), I have simulated the speech input using the **Serial Monitor**.
@@ -58,7 +60,10 @@ In Tinkercad simulation, I type the commands into the Serial Monitor to mimic sp
 ---
 
 ## 📷 Circuit Diagram (Tinkercad Simulation)
-![Tinkercad Circuit](circuit_screenshot.png)  
-*(Replace with your actual circuit screenshot from Tinkercad)*
+![Image](https://github.com/user-attachments/assets/f5455e2b-e730-4037-922c-2d6bb109ce02)
+
+## Output:
+
+
 
 ---
