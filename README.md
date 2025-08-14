@@ -63,7 +63,7 @@ In Tinkercad simulation, I type the commands into the Serial Monitor to mimic sp
 ![Image](https://github.com/user-attachments/assets/f5455e2b-e730-4037-922c-2d6bb109ce02)
 
 ## Output:
-
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/4d295a77-8ea5-432d-81af-70dfbfb3c470" />
 
 
 ---
